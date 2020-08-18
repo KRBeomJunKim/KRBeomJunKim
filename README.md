@@ -13,7 +13,7 @@
 * 수문장
   * front-end 중 사용자 앱 담당, reactjs사용
 * 블로그
- * django
+ * django사용
   
 ## 홈페이지
 
