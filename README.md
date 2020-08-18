@@ -5,6 +5,7 @@
 * html, css, javascript, typescript, reactjs
 * python, django
 * c, c++, java
+* git, docker
 
 ## 프로젝트
 
