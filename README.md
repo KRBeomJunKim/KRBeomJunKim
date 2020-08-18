@@ -12,7 +12,7 @@
 * 죽방
   * front-end 로직 담당, reactjs사용
 * 수문장
-  * front-end 중 사용자 앱 담당, reactjs사용
+  * front-end 중 사용자 앱 담당, reactjs, typescript사용
 * 블로그
   * django사용
   
