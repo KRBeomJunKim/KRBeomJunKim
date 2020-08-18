@@ -1,16 +1,22 @@
-### Hi there 👋
+### KRBeomJunKim
 
-<!--
-**KRBeomJunKim/KRBeomJunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 기술 스택
 
-Here are some ideas to get you started:
+* html, css, javascript, typescript, reactjs
+* python, django
+* c, c++, java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 해왔던 프로젝트
+
+* 죽방
+  * front-end 로직 담당, reactjs사용
+* 수문장
+  * front-end 중 사용자 앱 담당, reactjs사용
+  
+## 홈페이지
+
+* <http://sleepy-developer.com>
+
+## 이메일
+
+* wka8963@naver.com
