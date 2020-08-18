@@ -6,12 +6,14 @@
 * python, django
 * c, c++, java
 
-## 해왔던 프로젝트
+## 프로젝트
 
 * 죽방
   * front-end 로직 담당, reactjs사용
 * 수문장
   * front-end 중 사용자 앱 담당, reactjs사용
+* 블로그
+ *
   
 ## 홈페이지
 
