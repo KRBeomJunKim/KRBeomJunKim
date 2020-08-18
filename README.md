@@ -16,7 +16,7 @@
 * 블로그
   * django사용
   
-## 홈페이지
+## 블로그(현재 리뉴얼 작업중. 접속불가)
 
 * <http://sleepy-developer.com>
 
