@@ -9,9 +9,9 @@
 
 ## 프로젝트
 
-* 죽방
+* 죽방(대학생을 위한 부동산 플랫폼)
   * front-end 로직 담당, reactjs사용
-* 수문장
+* 수문장(감염병에 대비한 QR코드 출입 시스템)
   * front-end 중 사용자 앱 담당, reactjs, typescript사용
 * 블로그
   * django사용
