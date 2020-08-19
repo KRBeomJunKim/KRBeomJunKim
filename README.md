@@ -19,6 +19,6 @@
 ## Meta
 
 * 블로그(현재 리뉴얼 작업중. 접속불가)
- * <http://sleepy-developer.com>
+  * <http://sleepy-developer.com>
 * 이메일
- * wka8963@naver.com
+  * wka8963@naver.com
