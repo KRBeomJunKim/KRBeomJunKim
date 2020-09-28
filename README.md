@@ -3,7 +3,7 @@
 ## 기술 스택
 
 * html, css, javascript, typescript, reactjs
-* python, django
+* python, django, flask
 * c, c++, java
 * git, docker
 
