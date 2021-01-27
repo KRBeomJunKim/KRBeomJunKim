@@ -4,7 +4,8 @@
 
 * html, css, javascript, typescript, reactjs
 * python, django, flask
-* c, c++, java
+* java, spring, springboot
+* c, c++
 * git, docker
 
 ## 프로젝트
