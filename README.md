@@ -1,4 +1,4 @@
-### KRBeomJunKim(sleepy-developer)
+### KRBeomJunKim(Sleepy-developer)
 
 ## 기술 스택
 
