@@ -9,7 +9,11 @@
 
 ## 프로젝트
 
-* AZZUME(릴레이 소설 서비스)
+* AZZUME(릴레이 소설 서비스)(서비스 X)
+  * back-end담당, spring boot
+* ANBU(안부, 안부 자동화 서비스)(서비스 X)
+  * back-end담당, spring boot
+* Boated(보다 쉬운 프로젝트 관리 서비스)(서비스 X)
   * back-end담당, spring boot
   
 ## Meta
