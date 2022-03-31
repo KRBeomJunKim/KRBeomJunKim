@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">참여한 프로젝트</h3>
+<h3 align="center">📘참여한 프로젝트📘</h3>
 
 <h5 align="center">AZZUME(릴레이 소설 서비스)(서비스 X) : back-end담당, spring boot</h5>
 <h5 align="center">ANBU(안부, 안부 자동화 서비스)(서비스 X) : back-end담당, spring boot</h5>
@@ -20,5 +20,5 @@
 
 <br>
 
-<h3 align="center">Meta</h3>
+<h3 align="center">📞Meta📞</h3>
 <h5 align="center">Email : wka8963@naver.com</h5>
