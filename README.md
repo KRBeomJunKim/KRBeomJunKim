@@ -1,4 +1,4 @@
-<h3 align="center">KRBeomJunKim(Sleepy-developer)</h3>
+<h3 align="center">BeomJunKim(Sleepy-developer)</h3>
 
 <br>
 
