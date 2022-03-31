@@ -1,24 +1,24 @@
-### KRBeomJunKim(Sleepy-developer)
+<h3 align="center">KRBeomJunKim(Sleepy-developer)</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRBeomJunKim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-## 기술 스택
+<h3 align="center">🛠기술 스택🛠</h3>
 
-* java, spring, springboot
-* git, docker
+<p align="center">
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> 
+</p>
 
-## 프로젝트
+<br>
 
-* AZZUME(릴레이 소설 서비스)(서비스 X)
-  * back-end담당, spring boot
-* ANBU(안부, 안부 자동화 서비스)(서비스 X)
-  * back-end담당, spring boot
-* Boated(보다 쉬운 프로젝트 관리 서비스)(서비스 X)
-  * back-end담당, spring boot
-  
-## Meta
+<h3 align="center">참여한 프로젝트</h3>
 
-* 블로그(현재 리뉴얼 작업중. 접속불가)
-  * <http://sleepy-developer.com>
-* 이메일
-  * wka8963@naver.com
+<h5 align="center">AZZUME(릴레이 소설 서비스)(서비스 X) : back-end담당, spring boot</h5>
+<h5 align="center">ANBU(안부, 안부 자동화 서비스)(서비스 X) : back-end담당, spring boot</h5>
+<h5 align="center">Boated(보다 쉬운 프로젝트 관리 서비스)(서비스 X) : back-end담당, spring boot</h5>
+
+<br>
+
+<h3 align="center">Meta</h3>
+<h5 align="center">Email : wka8963@naver.com</h5>
