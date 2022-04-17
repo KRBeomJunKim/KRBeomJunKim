@@ -20,5 +20,10 @@
 
 <br>
 
+<h3 align="center">📕Blog📕</h3>
+<h5 align="center">https://sleepy-developer.tistory.com/</h5>
+
+<br>
+
 <h3 align="center">📞Meta📞</h3>
 <h5 align="center">Email : wka8963@naver.com</h5>
