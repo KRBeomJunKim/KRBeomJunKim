@@ -15,10 +15,10 @@
 
 <br>
 <h3 align="center">Boated(보다 쉬운 프로젝트 관리 서비스)</h3>
-<p align="center">- back-end, infra담당 spring boot -<p>
-<p align="center">노션 : https://bit.ly/3CUoNj2<p>
-<p align="center">Repository : https://github.com/Project-Boated<p>
-<p align="center">홈페이지 : http://15.164.89.188/<p>
+<p align="center">- back-end, infra담당, spring boot -<p>
+<p align="center">[홈페이지](http://15.164.89.188)<p>
+<p align="center">[Notion](https://bit.ly/3CUoNj2)<p>
+<p align="center">[Repository](https://github.com/Project-Boated)<p>
 
 <br>
 <h3 align="center">📕Blog📕</h3>
