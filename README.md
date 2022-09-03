@@ -14,12 +14,10 @@
 
 <h3 align="center">📘참여한 프로젝트📘</h3>
 
-<h5 align="center">
- <p> Boated(보다 쉬운 프로젝트 관리 서비스)<p>
- <p>- back-end, infra담당 spring boot -<p>
- <p>- https://github.com/Project-Boated -<p>
- <p>- http://15.164.89.188/ -<p>
-</h5>
+<h5 align="center">Boated(보다 쉬운 프로젝트 관리 서비스)</h5>
+<p align="center">- back-end, infra담당 spring boot -<p>
+<p align="center">- https://github.com/Project-Boated -<p>
+<p align="center">- http://15.164.89.188/ -<p>
 
 <br>
 
