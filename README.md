@@ -14,7 +14,7 @@
 
 <h3 align="center">📘참여한 프로젝트📘</h3>
 
-<h4 align="center">Boated(보다 쉬운 프로젝트 관리 서비스)</h4>
+<h3 align="center">Boated(보다 쉬운 프로젝트 관리 서비스)</h3>
 <p align="center">- back-end, infra담당 spring boot -<p>
 <p align="center">노션 : https://bit.ly/3CUoNj2<p>
 <p align="center">Repository : https://github.com/Project-Boated<p>
