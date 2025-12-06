@@ -14,3 +14,7 @@
 <br>
 <h3 align="center">📕Blog📕</h3>
 <h5 align="center">https://sleepy-developer.tistory.com/</h5>
+
+<br>
+<h3 align="center">LinkedIn</h3>
+<h5 align="center">www.linkedin.com/in/zollin</h5>
